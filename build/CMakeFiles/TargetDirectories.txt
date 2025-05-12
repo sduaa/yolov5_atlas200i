@@ -1,0 +1,13 @@
+/home/yolov5_Ascend_cpp/build/CMakeFiles/edit_cache.dir
+/home/yolov5_Ascend_cpp/build/CMakeFiles/rebuild_cache.dir
+/home/yolov5_Ascend_cpp/build/CMakeFiles/list_install_components.dir
+/home/yolov5_Ascend_cpp/build/CMakeFiles/install.dir
+/home/yolov5_Ascend_cpp/build/CMakeFiles/install/local.dir
+/home/yolov5_Ascend_cpp/build/CMakeFiles/install/strip.dir
+/home/yolov5_Ascend_cpp/build/src/CMakeFiles/main.dir
+/home/yolov5_Ascend_cpp/build/src/CMakeFiles/edit_cache.dir
+/home/yolov5_Ascend_cpp/build/src/CMakeFiles/rebuild_cache.dir
+/home/yolov5_Ascend_cpp/build/src/CMakeFiles/list_install_components.dir
+/home/yolov5_Ascend_cpp/build/src/CMakeFiles/install.dir
+/home/yolov5_Ascend_cpp/build/src/CMakeFiles/install/local.dir
+/home/yolov5_Ascend_cpp/build/src/CMakeFiles/install/strip.dir
